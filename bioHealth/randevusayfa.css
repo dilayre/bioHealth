@@ -1,0 +1,30 @@
+.orta{
+    position: absolute;
+    width: 45%;
+    height: 600px;
+    background:#81C784 ;
+    top: 150px;
+    opacity: 0.8;
+}
+
+#randevu{
+    left: 70px;
+}
+
+#hekim{
+    right:70px;
+}
+
+.yazı{
+    margin:50px;
+}
+
+#date{
+    width:600px;
+    margin: 50px;
+}
+
+#btn
+{
+    background:#EF5350;
+}
